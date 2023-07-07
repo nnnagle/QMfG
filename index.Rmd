@@ -1,0 +1,49 @@
+---
+title: "Quantitative Methods for Geography"
+author: "Nicholas Nagle"
+date: "`r Sys.Date()`"
+documentclass: book
+link-citations: yes
+description: "This is a minimal example of using
+  the bookdown package to write a book."
+params:
+  tufte: true 
+---
+
+# Preface {-}
+
+"US steps closer to a future where minorities are the majority" ^[https://time.com/3934092/us-population-diversity-census/] 
+
+"New Projections point to a Majority Minority Nation in 2044" ^[https://time.com/3934092/us-population-diversity-census/]
+
+These are headlines from news articles reponding to reports by the US Census Bureau that - at some time in the next few decades - white people will no longer be 50% of America.
+
+Saying that the US will be majority-minority has become an intensely political statement.   
+For some Americans it creates hope for a future with less segregation and racism. 
+For others it creates anxiety about a future that they can not recognize or understand their place in. Projections such as these have helped to fuel once-fringe racist ideas, such as the "Great Replacement Theory" into the mainstream ^[https://www.npr.org/2022/05/17/1099233034/the-great-replacement-conspiracy-theory-isnt-fringe-anymore-its-mainstream]
+
+How do we think about a statement like this: Do we interpret it at face-value, with whatever pre-conceived notion we bring to it? Do we question the numbers? Do we question what it means? How do we go about questioning the numbers? Later, we'll return to this statement and try to look under the hood a bit.
+
+Numbers are everywhere, from the front pages of the newspaper to your credit score.
+In my experience, many students are intimidated by numbers. 
+Some students want to run away because they think "I'm not a math person".^[According to science, there's no such thing as a "math person". So you can't use that excuse anymore. Psychologists have repeatedly shown that students can understand just about anything with the right mindset. ]
+
+The purpose of this book is to empower students by providing them with tools to begin thinking about data.
+Some of these tools will by useful in everyday life, and others will be specific to geographic research. 
+Importantly, everyone has the knowledge they need to think about data and numbers, even if they don't know the specifics of how they were generated.
+A key message of this textbook is that data are not self-evident. Data aren't real. Or at least, there not real in the same way that your real and the birds in the sky are real. 
+All data are *constructed*: from the data reported by the Census Bureau about race, to the weather maps you check on your phone, data are constructed.
+As a geographer or other scientist, you should feel empowered to use your knowledge of the world to ask questions of data about the world.
+
+Returning to the example that opened the preface, a critical geographer might immediately begin asking questions like: On the surface, it looks like this is a statement about the number white and not white people at some point in the future. But what does it mean to be white? Who determines who is white and who is not white? Can someone be white at one point in time and not white at another? And this is in the future, how do they determine whether babies will be white or not? And anyway, what does it mean to be the "majority"?
+
+It turns out that these are all good questions, and fruitful places to begin looking deeper at the numbers. Once you do, you will find that - while race is incredibly nuanced - Census data on race are not. According to these Census reports, any person with Latino ancestry and any person with a multiracial background is considered non-white. Even though the Census Bureau allows people to self-identify as multiple races, when they create these projections, they follow a sort of modern-day "One-Drop Rule", and call anyone with multiple races as not-white, even if white is one of those races. In their population projections out to future decades, the Census Bureau must assign a race category to future babies to create these data. Again, they follow the one-drop rule: any babies with three white grandparents and one Latino grandparent are considered not-white in their model. It turns out that these data are constructed from models, with a built in definition of whiteness that may be totally different from actual notions in whiteness in the US. Finally, if we dig into the racial categories themselves, we would see they are constructed by the US government and subject to change. Today, whatever people of Middle Eastern or North African origin may think of their own whiteness or not, US statistics considers them white by fiat. Proposals have been floated for many years to create a new racial category, but politics and bureaucracy have prevented it up to now. What we are left with is a - I believe correct - projection that the number of people without a drop of "non-white" ancestry is likely to become the minority, but that is a far cry from saying that the US will be less than 50 percent people who consider themselves white. 
+
+What we see is that these "official statistics" are generated from real data collected from the world, but they probably don't represent the world as we know it. A little bit of critical race theory can demolish these data. This is one example of the sort of critical thinking that I hope students will feel empowered to conduct, that will allow them to use what they already know a great deal about (which may or may not be critical race theory), to ask the right questions about data.
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+# Data
+
+```{r echo=FALSE}
+source('my_rmd_funs.R')
+```
+
+
+Data are facts and observations about the world. We're geographers and we care about the world, and so we care about data.
+Data can be qualitative, like your field notes where you record your impressions, or data can be quantitative, like the number of rings you've counted in a wood core cut from a tree, or the income of a household.
+
+But, while data are facts, that does not mean that the facts are obviously understood.

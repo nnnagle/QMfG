@@ -1,0 +1,15 @@
+bookdown::gitbook:
+  lib_dir: assets
+  split_by: section
+  config:
+    toolbar:
+    position: static
+bookdown::pdf_book:
+  keep_tex: yes
+bookdown::html_book:
+  css: toc.css
+bookdown::tufte_html_book:
+  toc: true
+  css: toc.css
+params:
+  tufte: true
